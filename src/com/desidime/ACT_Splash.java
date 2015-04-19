@@ -55,6 +55,7 @@ public class ACT_Splash extends Activity implements HttpCallback {
 		} else {
 			if (action == 1) {
 				dataPopular.clear();
+				dataTop.clear();
 				Log.e("response", "" + response);
 				try {
 					final JSONObject jsonObWorkShopRes = new JSONObject(
