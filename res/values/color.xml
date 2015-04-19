@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="actionbar_color">#e43a43</color>
+    <color name="drawer_arrow_second_color">#ffffff</color>
+    <color name="ldrawer_color">#FFFFFF</color>
+    <color name="background_tab_pressed">#663aa7e1</color>
+
+</resources>
